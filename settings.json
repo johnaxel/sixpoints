@@ -1,0 +1,8 @@
+{
+    "twilio":{
+        "from_num":"+15555555555",
+        "to_num":"+15555555555",
+        "sid":"ACXXXXXXXXXXXXXXX",
+        "token":"TOKENXXXXXXXXXX"
+    }
+}
